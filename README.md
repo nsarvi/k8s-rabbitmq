@@ -3,7 +3,7 @@
 [RabbitMQ](https://www.rabbitmq.com) is an open source message broker software
 that implements the Advanced Message Queuing Protocol (AMQP).
 
-## TL;DR;
+## Install Helm chart
 
 ```bash
 $ helm install charts/rabbitmq-ha
